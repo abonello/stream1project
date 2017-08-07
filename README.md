@@ -1,6 +1,6 @@
-# Stream 1 Project #
+# Stream 1 Project
 
-###This is an initial trial ###
+### This is an initial trial
 
 I intend to build a website for myself as an Independent Music Professional.
 My activities cover various streams which can be broadly grouped in three groups.
